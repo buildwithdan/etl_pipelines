@@ -80,4 +80,4 @@ def get_all():
     return data
 
 # testing
-get_company('04372434')
+get_company('05633814')
